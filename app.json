@@ -5,8 +5,8 @@
         "telegram",
         "Bitly"
     ],
-    "website": "https://github.com/MrVishal2k2",
-    "repository": "https://github.com/Mrvishal2k2/TG-ShortLinkBot/tree/Bitly",
+    "website": "https://github.com/deepakksharma00079",
+    "repository": "https://github.com/deepakksharma00079/TG-ShortLinkBot/tree/Bitly",
     "logo": "https://telegra.ph//file/b3461e7795bb258688623.jpg",
     "env": {
         "BOT_TOKEN": {
