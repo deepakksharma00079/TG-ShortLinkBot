@@ -23,11 +23,11 @@
         },
         "BITLY_KEY": {
             "description": "Bitly API See Readme for further details",
-            "required": false
+            "required": true
         },
        "OWNER": {
             "description": "OWNER username without @",
-            "required": false
+            "required": deep
         }
 
     },
