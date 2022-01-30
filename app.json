@@ -27,7 +27,7 @@
         },
        "OWNER": {
             "description": "OWNER username without @",
-            "required": deep
+            "required": false
         }
 
     },
